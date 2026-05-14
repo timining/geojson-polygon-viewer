@@ -2,6 +2,9 @@
 
 Aplicación de escritorio Unity que visualiza datos geográficos GeoJSON en un entorno 3D interactivo.
 
+<img width="1026" height="807" alt="image" src="https://github.com/user-attachments/assets/cc1b4ff6-5d36-4ff7-b0f3-07f6deb1fa7a" />
+
+
 ## Descripción
 
 GeoJSON Polygon Viewer carga archivos GeoJSON y renderiza sus geometrías como objetos 3D navegables. Está orientado especialmente a la visualización de polígonos geográficos complejos con soporte de agujeros, colecciones de features y múltiples tipos de geometría.
