@@ -76,7 +76,9 @@ Las coordenadas GeoJSON `[longitud, latitud, altitud?]` se transforman a:
 - `Z` → latitud
 
 ## Uso
+Descargar el zip del release más reciente y ejecutar geojson-viewer.exe, enjoy!
 
+#DEV
 1. Abrir el proyecto en Unity 6000.3.14f1
 2. Cargar la escena `Assets/Scenes/Main.unity`
 3. Ejecutar la aplicación
